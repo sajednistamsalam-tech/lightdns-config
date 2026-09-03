@@ -1,0 +1,1 @@
+# lightdns-config
