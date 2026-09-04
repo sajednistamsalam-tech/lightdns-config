@@ -10,7 +10,7 @@
 
     "servers": {
         "vip1": {
-            "name": "All Games Vip",
+            "name": "All Ga1mes Vip",
             "dns1": "78.157.42.100",
             "dns2": "78.157.42.101"
         },
