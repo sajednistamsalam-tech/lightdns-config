@@ -10,7 +10,7 @@
 
     "servers": {
         "vip1": {
-            "name": "GOD SERVER",
+            "name": "GOD SERVER 1",
             "dns1": "209.244.0.3",
             "dns2": "209.244.0.4"
         },
