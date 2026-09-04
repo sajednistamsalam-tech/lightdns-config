@@ -2,7 +2,7 @@
     "latest_version": 1,
 "minimum_version": 1,
 "force_update": false
-    "update_url": "https://example.com/lightdns.apk",
+    "update_url": "",
 
     "servers": {
         "vip1": {
