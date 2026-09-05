@@ -4,7 +4,7 @@
     "minimum_version": 2,
     "force_update": true,
 
-    "update_url": "com.example.lightdns",
+    "update_url": "https://example.com/lightdns.apk",
 
     "bazaar_url": "",
     "myket_url": ""
