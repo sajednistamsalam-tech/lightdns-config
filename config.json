@@ -42,9 +42,9 @@
 
     "servers": {
         "vip1": {
-            "name": "VIP SERVER",
+            "name": "TEST WIRE",
             "type": "wireguard",
-            "config_url": "https://abrehamrahi.ir/o/public/EAd6mHSC/"
+            "config_url": "https://abrehamrahi.ir/o/public/BKUz4CVP/"
         },
 
         "vip2": {
