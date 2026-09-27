@@ -8,6 +8,10 @@
     "bazaar_url": "",
     "myket_url": "",
 
+    "discount_enabled": true,
+    "discount_code": "rwqxgbceka",
+    "discount_product_id": "abc50",
+
     "servers": {
         "vip1": {
             "name": "VIP SERVER ",
