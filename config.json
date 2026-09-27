@@ -42,10 +42,10 @@
 
     "servers": {
         "vip1": {
-            "name": "VIP SERVER",
-            "dns1": "78.157.42.100",
-            "dns2": "78.157.42.101"
-        },
+    "name": "VIP SERVER",
+    "type": "wireguard",
+    "config_url": "YOUR_CONFIG_URL"
+        }
 
         "vip2": {
             "name": "All Games 1",
