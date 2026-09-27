@@ -4,44 +4,45 @@
     "force_update": false,
 
     "update_url": "",
-
     "bazaar_url": "",
     "myket_url": "",
-"free_access": {
-    "enabled": true,
-    "code": "LIGHTFREE"
-},
+
+    "free_access": {
+        "enabled": true,
+        "code": "LIGHTFREE"
+    },
+
     "discounts": {
-    "1_month": {
-        "enabled": true,
-        "code": "MONTH50",
-        "product_id": "abc50"
+        "1_month": {
+            "enabled": true,
+            "code": "MONTH50",
+            "product_id": "abc50"
+        },
+        "3_months": {
+            "enabled": true,
+            "code": "THREE50",
+            "product_id": "def50"
+        },
+        "6_months": {
+            "enabled": true,
+            "code": "SIX50",
+            "product_id": "ghi50"
+        },
+        "1_year": {
+            "enabled": true,
+            "code": "YEAR50",
+            "product_id": "jkl50"
+        },
+        "unlimited": {
+            "enabled": true,
+            "code": "ULT50",
+            "product_id": "mns50"
+        }
     },
-    "3_months": {
-        "enabled": true,
-        "code": "THREE50",
-        "product_id": "def50"
-    },
-    "6_months": {
-        "enabled": true,
-        "code": "SIX50",
-        "product_id": "ghi50"
-    },
-    "1_year": {
-        "enabled": true,
-        "code": "YEAR50",
-        "product_id": "jkl50"
-    },
-    "unlimited": {
-        "enabled": true,
-        "code": "ULT50",
-        "product_id": "mns50"
-    }
-}
 
     "servers": {
         "vip1": {
-            "name": "VIP SERVER ",
+            "name": "VIP SERVER",
             "dns1": "78.157.42.100",
             "dns2": "78.157.42.101"
         },
