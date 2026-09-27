@@ -42,10 +42,10 @@
 
     "servers": {
         "vip1": {
-    "name": "VIP SERVER",
-    "type": "wireguard",
-    "config_url": "https://abrehamrahi.ir/o/public/EAd6mHSC/"
-}
+            "name": "VIP SERVER",
+            "type": "wireguard",
+            "config_url": "https://abrehamrahi.ir/o/public/EAd6mHSC/"
+        },
 
         "vip2": {
             "name": "All Games 1",
