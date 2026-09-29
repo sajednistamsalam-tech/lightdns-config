@@ -42,7 +42,7 @@
 
     "servers": {
         "vip1": {
-            "name": "All Games",
+            "name": "All Game",
             "type": "wireguard",
             "config_url": "https://abrehamrahi.ir/o/public/WsSBz7D9/"
         },
