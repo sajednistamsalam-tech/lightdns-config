@@ -42,7 +42,7 @@
 
     "servers": {
         "vip1": {
-            "name": "بزودی این سرور مشکلات پابجی و کالاف رو حل میکنه",
+            "name": "شنبه الی یکشنبه این سرور مشکلات پابجی و کالاف رو حل میکنه",
             "type": "wireguard",
             "config_url": "https://abrehamrahi.ir/o/public/WsSBz7D9/"
         },
