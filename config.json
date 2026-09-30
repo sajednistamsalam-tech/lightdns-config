@@ -42,19 +42,19 @@
 
     "servers": {
         "vip1": {
-            "name": "All Game",
+            "name": "بزودی این سرور مشکلات پابجی و کالاف رو حل میکنه",
             "type": "wireguard",
             "config_url": "https://abrehamrahi.ir/o/public/WsSBz7D9/"
         },
 
         "vip2": {
-            "name": "All Games 1",
+            "name": "همراه ما باشید بزودی سرور جدید",
             "dns1": "78.157.42.100",
             "dns2": "78.157.42.101"
         },
 
         "vip3": {
-            "name": "All Games 2",
+            "name": "پابجی و کالاف با پینگ 50 بزودی-منتظر باشید",
             "dns1": "209.244.0.3",
             "dns2": "10.202.10.202"
         }
