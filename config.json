@@ -43,7 +43,7 @@
     "servers": {
     "vip1": {
         "name": "سرور وایر گیمینگ اختصاصی",
-        "description": "این سرور درحال حاضر برای تمام بازی ها با پینگ 48 فعال است",
+        "description": "اگه اشتراک تهیه کردین به این سرور متصل شید",
         "type": "wireguard",
         "config_url": "https://abrehamrahi.ir/o/public/WsSBz7D9/"
     },
