@@ -1,7 +1,7 @@
 {
     "latest_version": 2.1,
     "minimum_version": 2,
-    "force_update": true,
+    "force_update": false,
 
     "update_url": "com.lightdns.ir",
     "bazaar_url": "",
