@@ -4,8 +4,8 @@
     "force_update": true,
 
     "update_url": "com.lightdns.ir",
-    "bazaar_url": "https://abrehamrahi.ir/o/public/0MIGTSm1/",
-    "myket_url": "https://abrehamrahi.ir/o/public/0MIGTSm1/",
+    "bazaar_url": "https://myket.ir/app/com.lightdns.ir",
+    "myket_url": "https://myket.ir/app/com.lightdns.ir",
 
     "free_access": {
         "enabled": true,
