@@ -74,7 +74,7 @@
 
     "servers": {
     "vip1": {
-        "name": "سرور وایرگارد گیمینگ",
+        "name": "سرور وایر گیمینگ",
         "description": "اگه اشتراک تهیه کردین به این سرور متصل شید(شخصی هست سرورتون) ",
         "type": "wireguard",
         "config_url": "https://abrehamrahi.ir/o/public/WsSBz7D9/"
