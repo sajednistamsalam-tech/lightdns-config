@@ -75,7 +75,7 @@
     "messages": [
         {
             "id": "sample-001",
-            "enabled": false,
+            "enabled": true,
             "type": "offer",
             "title": "عنوان پیام",
             "body": "متن پیام اینجا نوشته میشه.",
