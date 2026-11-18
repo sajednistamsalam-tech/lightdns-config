@@ -72,6 +72,21 @@
         }
     },
 
+    "messages": [
+        {
+            "id": "sample-001",
+            "enabled": false,
+            "type": "offer",
+            "title": "عنوان پیام",
+            "body": "متن پیام اینجا نوشته میشه.",
+            "date": "۱۴۰۵/۰۸/۲۷",
+            "button_text": "مشاهده اشتراک‌ها",
+            "button_url": "special",
+            "audience": "all",
+            "expires_at": "2026-12-31"
+        }
+    ],
+
     "servers": {
     "vip1": {
         "name": "سرور وایرگارد گیمینگ",
