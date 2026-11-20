@@ -135,7 +135,7 @@
         },
         {
             "id": "maintenance-001",
-            "enabled": true,
+            "enabled": false,
             "type": "alert",
             "title": "بروزرسانی و تعمیرات سرور",
             "body": " قطعی اعلام نشده از سمت دیتاسنتر داریم. بزودی رفع میشه",
