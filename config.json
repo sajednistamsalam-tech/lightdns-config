@@ -175,7 +175,7 @@
     "servers": {
     "vip1": {
         "name": "سرور وایرگارد گیمینگ",
-        "description": "برای بازی های تحریم شده مثل دلتافورس,"
+        "description": "برای بازی های تحریم شده مثل دلتافورس",
         "type": "wireguard",
         "config_url": "https://abrehamrahi.ir/o/public/WsSBz7D9/"
     },
