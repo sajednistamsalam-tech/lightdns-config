@@ -8,8 +8,8 @@
     "myket_url": "https://myket.ir/app/com.lightdns.ir",
 
     "ad_dialog": {
-        "connect_show_opens_ad": true,
-        "boost_show_opens_ad": true,
+        "connect_show_opens_ad": false,
+        "boost_show_opens_ad": false,
         "height_percent": 80
     },
 
