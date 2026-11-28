@@ -177,14 +177,14 @@
     "servers": {
     "vip1": {
         "name": "سرور وایرگارد گیمینگ",
-        "description": "برای بازی های تحریم شده مثل دلتافورس",
+        "description": "بهترین پینگ و رجیستر اینجاست",
         "type": "wireguard",
         "config_url": "https://abrehamrahi.ir/o/public/WsSBz7D9/"
     },
 
     "vip2": {
         "name": "سرور وایرگارد گیمینگ 2",
-        "description": "برای بازی های بدون تحریم مثل کالاف و پابجی",
+        "description": "منم دوست داشتی تست کن",
         "dns1": "78.157.42.100",
         "dns2": "78.157.42.101"
     },
